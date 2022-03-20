@@ -1,0 +1,17 @@
+To be able to develop the project and easily to add new features, we needed to pick a framework to work with. 
+We started the project with Express.Js and wrote some basic code without a login functionality. 
+To start the project you need:
+
+1- Express.js ( read the package.Json)
+2-MongoDb
+
+To install and start the project use the command :
+
+npm start
+you have to have mono
+
+To Do List :
+
+1-Styling 
+2-The Database Structure will be changed 
+
